@@ -1,4 +1,6 @@
 title: Biostatistics Consulting Center
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/iusph_logo.jpg"
 description: Placeholder for description
 theme: just-the-docs
 
